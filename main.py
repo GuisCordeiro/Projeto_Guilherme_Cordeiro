@@ -25,6 +25,10 @@ class A:
     def MA2(self):
         print("Método MA2 da classe A")
 
+    # Método MA3
+    def MA3(self):
+        print("Alteração a classe A partir do clone")
+
 
 class B:
     def __init__(self):
@@ -52,3 +56,4 @@ class B:
     # Método MB2
     def MB2(self):
         print("Método MB2 da classe B")
+
