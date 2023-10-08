@@ -13,4 +13,6 @@ class D:
     def MD2(self):
         # Assinatura: def MD2(self)
         print("Método MD2 da classe D")
-
+# Método MD3
+    def MD4(self):
+        print("Método MD4 da classe D")
