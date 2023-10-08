@@ -24,3 +24,7 @@ class C:
     # Método MC2
     def MC2(self):
         print("Método MC2 da classe C")
+
+    # Método MC3
+    def MC3(self):
+        print("Método MC3 da classe C")
