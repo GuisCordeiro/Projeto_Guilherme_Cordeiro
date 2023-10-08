@@ -16,5 +16,5 @@ class D:
 
     # Método MD3
     def MD3(self):
-        print("Método MD4 da classe D")
+        print("Método MD3 da classe D")
 
