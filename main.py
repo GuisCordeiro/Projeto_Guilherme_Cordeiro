@@ -57,3 +57,8 @@ class B:
     def MB2(self):
         print("Método MB2 da classe B")
 
+    # Método MB3
+    def MB3(self):
+        print("Método MB3 da classe B")
+
+
