@@ -17,6 +17,9 @@ class A:
     def set_A2(self, valor):
         self.A2 = valor
 
+    def getSoma(a, b):
+        return a+b
+        
     # Método MA1
     def MA1(self):
         print("Método MA1 da classe A")
